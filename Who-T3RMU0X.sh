@@ -4,9 +4,9 @@ figlet Tools | lolcat
 sleep 1
 echo
 echo $green"======================================"
-echo $red"("$white"+"$red")"$white" Author : Mr.T1T4N"$red"       
-echo $red"("$white"+"$red")"$white" Team   : Linux Cyber Team"$red"    
-echo $red"("$white"+"$red")"$white" Script : Semua Tools"$red"
+echo $red" Author : Mr.T1T4N"$red"       
+echo $red" Team   : Linux Cyber Team"$red"    
+echo $red" Script : Semua Tools"$red"
 echo $green"======================================"
 echo $cyan
 sleep 2
