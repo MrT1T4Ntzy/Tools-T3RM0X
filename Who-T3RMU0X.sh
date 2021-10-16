@@ -4,18 +4,18 @@ figlet Tools | lolcat
 sleep 1
 echo
 echo $green"======================================"
-echo $red"("$white"+"$red")"$white" Author : Mr.T1T4N"$red"          ("$white"+"$red")"
-echo $red"("$white"+"$red")"$white" Team   : Linux Cyber Team"$red"       ("$white"+"$red")"
-echo $red"("$white"+"$red")"$white" Script : Semua Tools"$red"      ("$white"+"$red")"
+echo $red"("$white"+"$red")"$white" Author : Mr.T1T4N"$red"       
+echo $red"("$white"+"$red")"$white" Team   : Linux Cyber Team"$red"    
+echo $red"("$white"+"$red")"$white" Script : Semua Tools"$red"
 echo $green"======================================"
 echo $cyan
 sleep 2
 echo $black"======================================"
-echo  $blue ("$white"+"$blue")"$white"(1). Hack CCTV"$blue"
-echo $blue ("$white"+"$blue")"$white"(2). Hack Bitcoins"$blue"
-echo  $blue ("$white"+"$blue")"$white"(3). Hack Satoearn"$blue"
-echo  $blue ("$white"+"$blue")"$white"(4). Hack IP Address"$blue"
-echo  $blue ("$white"+"$blue")"$white"(5). Keluar"$blue"
+echo  $blue"(1). Hack CCTV"$blue"
+echo $blue"(2). Hack Bitcoins"$blue"
+echo  $blue"(3). Hack Satoearn"$blue"
+echo  $blue"(4). Hack IP Address"$blue"
+echo  $blue"(5). Keluar"$blue"
 echo $green"Silakan Pilih : " $pilih
 sleep 3
 if ( $pilih = "1" ) || ( $pilih "01" )
